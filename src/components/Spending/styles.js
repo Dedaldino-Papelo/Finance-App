@@ -11,7 +11,8 @@ const styles = StyleSheet.create({
         borderRadius: 17.5,
         flexDirection: 'row',
         paddingHorizontal: 18,
-        paddingVertical: 18
+        paddingVertical: 18,
+        justifyContent: 'space-between'
     },
     title: {
         color: '#6B6B6B',
