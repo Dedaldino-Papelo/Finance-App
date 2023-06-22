@@ -5,6 +5,9 @@ const styles = StyleSheet.create({
       flex: 1,
       backgroundColor: '#E5E5E5'
     },
+    list: {
+      marginStart: 23,
+    }
   });
 
   export default styles
